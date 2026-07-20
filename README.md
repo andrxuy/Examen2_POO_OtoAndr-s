@@ -2,5 +2,7 @@
 
 # EDITADO DESDE EL CELULAR, NO SE HICIERON GRANDES CAMBIOS, SOLO SE QUERÍA MERGEAR LOS PROYECTOS EN UNA SOLA CARPETA
 Examen comprimido de dos partes, uno con endpoints y postman y el otro con javaFX+Hashing
+
 Versión de java 26
+
 QUISE UNIR LAS DOS CARPETAS EN UNA SOLA PERO LAS TERMINE BORRANDO
