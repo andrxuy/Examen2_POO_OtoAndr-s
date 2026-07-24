@@ -1,8 +1,7 @@
 # Examen2_POO_OtoAndr-s
 
-# EDITADO DESDE EL CELULAR, NO SE HICIERON CAMBIOS, SOLO SE QUERÍA MERGEAR LOS PROYECTOS EN UNA SOLA CARPETA
+# DESCRIPCIÓN
 Examen comprimido de dos partes, uno con endpoints y postman y el otro con javaFX+Hashing
 
 Versión de java 26
 
-QUISE UNIR LAS DOS CARPETAS EN UNA SOLA PERO LAS TERMINE BORRANDO
